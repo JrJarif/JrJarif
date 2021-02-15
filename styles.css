@@ -1,0 +1,102 @@
+#e1_3 { 
+	overflow:hidden;
+	background-color:rgba(255, 255, 255, 1);
+	opacity:1;
+	width:1440px;
+	height:3027px;
+	position:absolute;
+}
+#e1_4 { 
+	background-color:rgba(196.00000351667404, 196.00000351667404, 196.00000351667404, 1);
+	background-image:linear-gradient(0deg, rgba(112.97914758324623, 6.276632398366928, 6.276632398366928, 1) 0%,rgba(255, 255, 255, 1) 83.632493019104%) ;
+	opacity:1;
+	width:1440px;
+	height:83px;
+	position:absolute;
+	left:0px;
+	top:0px;
+}
+#e1_6 { 
+	box-shadow:0px 4px 4px rgba(0, 0, 0, 0.25);
+	background-color:rgba(196.00000351667404, 196.00000351667404, 196.00000351667404, 1);
+	opacity:1;
+	width:100px;
+	height:100px;
+	position:absolute;
+	left:117px;
+	top:83px;
+}
+#e8_10 { 
+	box-shadow:0px 4px 4px rgba(0, 0, 0, 0.25);
+	background-image:linear-gradient(0deg, rgba(0, 65.0000037252903, 106.00000128149986, 1) 0%,rgba(255, 255, 255, 1) 100%) ;
+	opacity:1;
+	width:1460px;
+	height:66px;
+	position:absolute;
+	left:-20px;
+	top:2961px;
+}
+#e1_7 { 
+	background-color:rgba(196.00000351667404, 196.00000351667404, 196.00000351667404, 1);
+	background-image:linear-gradient(0deg, rgba(112.97914758324623, 6.276632398366928, 6.276632398366928, 1) 0%,rgba(255, 255, 255, 1) 100%) ;
+	opacity:1;
+	width:859px;
+	height:308px;
+	position:absolute;
+	left:291px;
+	top:239px;
+	border-top-left-radius:10px;
+	border-top-right-radius:10px;
+	border-bottom-left-radius:10px;
+	border-bottom-right-radius:10px;
+}
+#e1_11 { 
+	color:rgba(0, 0, 0, 1);
+	opacity:1;
+	width:54px;
+	height:14px;
+	position:absolute;
+	left:140px;
+	top:126px;
+	font-family:Roboto;
+	text-align:left;
+	font-size:12px;
+	letter-spacing:0;
+	line-height:undefined;
+}
+#e1_10 { 
+	color:rgba(255, 255, 255, 1);
+	opacity:1;
+	width:228px;
+	height:56px;
+	position:absolute;
+	left:606px;
+	top:324px;
+	font-family:Roboto;
+	text-align:left;
+	font-size:48px;
+	letter-spacing:0;
+	line-height:undefined;
+}
+#e1_8 { 
+	color:rgb(250, 244, 244);
+	opacity:1;
+	width:239.9401092529297px;
+	height:14px;
+	position:absolute;
+	left:602px;
+	top:3001.574951171875px;
+	font-family:Roboto;
+	text-align:left;
+	font-size:20px;
+	letter-spacing:0px;
+	line-height:undefined;
+}
+#e8_9 { 
+	opacity:1;
+	width:1445px;
+	height:75px;
+	position:absolute;
+	left:-5px;
+	top:3001.5px;
+}
